@@ -7,3 +7,6 @@ Usage:
  - $help    || Prints help message
  - $hello   || Welcome message 
  - $inspire || Returns you an inspiration quote
+
+Installation:
+>https://discord.com/api/oauth2/authorize?client_id=790265652447412304&permissions=519232&scope=bot
